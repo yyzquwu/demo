@@ -1,0 +1,38 @@
+{
+  "SHA": {
+    "name": "Shasta Lake",
+    "gww_id": 89304
+  },
+  "ORO": {
+    "name": "Lake Oroville",
+    "gww_id": 88197
+  },
+  "NML": {
+    "name": "New Melones",
+    "gww_id": 87879
+  },
+  "FOL": {
+    "name": "Folsom Lake",
+    "gww_id": 87589
+  },
+  "TRM": {
+    "name": "Lake Kaweah",
+    "gww_id": 81675
+  },
+  "DNP": {
+    "name": "Don Pedro Reservoir",
+    "gww_id": 87987
+  },
+  "BER": {
+    "name": "Lake Berryessa",
+    "gww_id": 88668
+  },
+  "EXC": {
+    "name": "Lake McClure",
+    "gww_id": 87057
+  },
+  "MIL": {
+    "name": "Millerton Lake",
+    "gww_id": 86093
+  }
+}
